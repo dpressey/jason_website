@@ -4,16 +4,40 @@ h1 {
 	color: #00C51F;
 }
 
-.center {
-	position: relative;
-	left: 17%;
-	
+h3 {
+	color: #00C51F;
 }
 
-.navbar {
-	background-color: #0fa630;
+.center {
+	position: relative;
+	left: 3%;
 }
 
 img {
 	border: 2px solid green;
+}
+
+
+.prices {
+	position: relative;
+	left: 28%;
+}
+
+.cleaning-details{
+	text-align: center;
+}
+
+.locations {
+	position: relative;
+	left: 40%;
+}
+
+.map {
+	position: relative;
+	left: 17%;
+}
+
+.hidden {
+	position: relative;
+	height: 300px;
 }
